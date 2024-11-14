@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Jiaming Zhou"
   avatar           : "images/zjm.jpg"
-  bio              : "Nankai University"
+  bio              : # "Nankai University"
   location         : "Tianjin, China"
   employer         :
   pubmed           : 
