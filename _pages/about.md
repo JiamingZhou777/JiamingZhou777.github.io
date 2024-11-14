@@ -75,7 +75,7 @@ and Automatic Speech Recognition Challenge](https://stutteringspeech.org/)
 (LRDWWS Challenge) in conjuntion with IEEE SLT 2024, *2024*
 
 
-Thanks for the template of <a href="https://github.com/RayeRen/acad-homepage.github.io">Yi Ren</a>
+Thanks for the template of <a href="https://rayeren.github.io">Yi Ren</a>
 
 <div style="text-align: center;">
     <a href="https://clustrmaps.com/site/1c273" title="Visit tracker">
