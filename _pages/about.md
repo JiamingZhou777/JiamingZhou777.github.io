@@ -71,8 +71,9 @@ and Automatic Speech Recognition Challenge](https://stutteringspeech.org/)
 # 🎖 Honors and Awards
 - China National Scholarship, Ministry of Education of China, *2020*
 - Outstanding Graduate Award of Dalian, *2022*
-- The Second place in Low-Resource Dysarthria Wake-Up Word Spotting Challenge
-([LRDWWS Challenge](https://www.lrdwws.org/)) in conjuntion with IEEE SLT 2024, *2024*
+- The Second place in SLT 2024 Low-Resource Dysarthria Wake-Up Word
+Spotting Challenge
+([LRDWWS Challenge](https://www.lrdwws.org/)), *2024*
 
 
 Thanks for the template of <a href="https://rayeren.github.io">Yi Ren</a>
