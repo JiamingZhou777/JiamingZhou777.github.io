@@ -62,7 +62,7 @@ My research interests include:
 
 # 🧑‍🔬 Services
 **Reviewer:** &nbsp; 
-- ICASSP (25), EMNLP (24), ARR
+- ICASSP (25), EMNLP (24), ACL ARR (24)
 
 **Organizer**:  
 - [SLT 2024 Mandarin Stuttering Event Detection
@@ -72,7 +72,7 @@ and Automatic Speech Recognition Challenge](https://stutteringspeech.org/)
 - China National Scholarship, Ministry of Education of China, *2020*
 - Outstanding Graduate Award of Dalian, *2022*
 - The Second place in Low-Resource Dysarthria Wake-Up Word Spotting Challenge
-(LRDWWS Challenge) in conjuntion with IEEE SLT 2024, *2024*
+([LRDWWS Challenge](https://www.lrdwws.org/)) in conjuntion with IEEE SLT 2024, *2024*
 
 
 Thanks for the template of <a href="https://rayeren.github.io">Yi Ren</a>
