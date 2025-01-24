@@ -56,7 +56,7 @@ My research interests include:
 
 
 # 💻 Internships
-- Research Intern, [AntGroup](https://www.antgroup.com), China ( *June 2024 - Now*)
+- Research Intern, [AntGroup](https://www.antgroup.com), China (*June 2024 - January 2025*)
 - Research Intern, [SenseTime](https://www.sensetime.com), China (*June 2023 - November 2023*)
 
 # 🧑‍🔬 Services
