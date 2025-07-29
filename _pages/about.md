@@ -25,20 +25,23 @@ My research interests include:
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
-<!-- # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+# 🔥 News
+- *2025.07*: &nbsp;🎉🎉 We propose [DIFFA](https://arxiv.org/abs/2507.18452), the first diffusion-based Large Audio-Language Model designed to perform spoken language understanding. 
 
 # 📝 Publications 
 <!-- for example -->
 <!-- - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ACL 2024</span><span style="color:red">(Oral)</span> [GenTranslate: Large Language Models are Generative Multilingual Speech and Machine Translators](https://aclanthology.org/2024.acl-long.5.pdf), **<u>Yuchen Hu</u>**, Chen Chen, Chao-Han Huck Yang, Ruizhe Li, Dong Zhang, Zhehuai Chen, Eng Siong Chng. [[Code]](https://github.com/YUCHEN005/GenTranslate) [[Data]](https://huggingface.co/datasets/PeacefulData/HypoTranslate) -->
 
+
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Arxiv</span> [DIFFA: Large Language Diffusion Models Can Listen and Understand](https://arxiv.org/abs/2507.18452), **Jiaming Zhou**, Hongjie Chen, Shiwan Zhao, Jian Kang, Jie Li, Enzhi Wang, Yujie Guo, Haoqin Sun, Hui Wang, Aobo Kong, Yong Qin, Xuelong Li.
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Arxiv</span> [CS-Dialogue: A 104-Hour Dataset of Spontaneous Mandarin-English Code-Switching Dialogues for Speech Recognition](https://arxiv.org/abs/2502.18913), **Jiaming Zhou**, Yujie Guo, Shiwan Zhao, Haoqin Sun, Hui Wang, Jiabei He, Aobo Kong, Shiyao Wang, Xi Yang, Yequan Wang, Yonghua Lin, Yong Qin.
+- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ACL 2025</span> [ChildMandarin: A Comprehensive Mandarin Speech Dataset for Young Children Aged 3-5](https://arxiv.org/abs/2409.18584), **Jiaming Zhou**, Shiyao Wang, Shiwan Zhao, Jiabei He, Haoqin Sun, Hui Wang, Cheng Liu, Aobo Kong, Yujie Guo, Yong Qin. [[Github]](https://github.com/flageval-baai/ChildMandarin) [[Huggingface]](https://huggingface.co/datasets/BAAI/ChildMandarin)
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ICASSP 2025</span> [M2R-Whisper: Multi-stage and Multi-scale Retrieval Augmentation for Enhancing Whisper](https://arxiv.org/abs/2409.11889), **Jiaming Zhou**, Shiwan Zhao, Jiabei He, Hui Wang, Wenjia Zeng, Yong Chen, Haoqin Sun, Aobo Kong, Yong Qin.
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ICASSP 2025</span> [Improving Zero-Shot Chinese-English Code-Switching ASR with kNN-CTC and Gated Monolingual Datastores](https://arxiv.org/abs/2406.03814), **Jiaming Zhou**, Shiwan Zhao, Hui Wang, Tian-Hao Zhang, Haoqin Sun, Xuechen Wang, Yong Qin.
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ICASSP 2024</span> [KNN-CTC: Enhancing ASR via Retrieval of CTC Pseudo Labels](https://ieeexplore.ieee.org/abstract/document/10447075), **Jiaming Zhou**, Shiwan Zhao, Yaqi Liu, Wenjia Zeng, Yong Chen, Yong Qin. [[Github]](https://github.com/NKU-HLT/KNN-CTC/tree/master)
 - <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">ICASSP 2023</span> [Madi: Inter-domain matching and intra-domain discrimination for cross-domain speech recognition](https://ieeexplore.ieee.org/abstract/document/10095177), **Jiaming Zhou**, Shiwan Zhao, Ning Jiang, Guoqing Zhao, Yong Qin.
-- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Arxiv</span> [ChildMandarin: A Comprehensive Mandarin Speech Dataset for Young Children Aged 3-5](https://arxiv.org/abs/2409.18584), **Jiaming Zhou**, Shiyao Wang, Shiwan Zhao, Jiabei He, Haoqin Sun, Hui Wang, Cheng Liu, Aobo Kong, Yujie Guo, Yong Qin. [[Github]](https://github.com/flageval-baai/ChildMandarin) [[Huggingface]](https://huggingface.co/datasets/BAAI/ChildMandarin)
-- <span style="display:inline-block; background-color:#00369F; color:#fff; padding:0px 7px; margin-right:5px; font-size:13px;">Arxiv</span> [CS-Dialogue: A 104-Hour Dataset of Spontaneous Mandarin-English Code-Switching Dialogues for Speech Recognition](https://arxiv.org/abs/2502.18913), **Jiaming Zhou**, Yujie Guo, Shiwan Zhao, Haoqin Sun, Hui Wang, Jiabei He, Aobo Kong, Shiyao Wang, Xi Yang, Yequan Wang, Yonghua Lin, Yong Qin.
+
+
 
 
 <!-- # 💬 Invited Talks
@@ -57,12 +60,14 @@ My research interests include:
 
 
 # 💻 Internships
+- Research Intern, [TeleAI](https://www.teleai.com/), China (*May 2025 - Now*)
 - Research Intern, [AntGroup](https://www.antgroup.com), China (*June 2024 - January 2025*)
 - Research Intern, [SenseTime](https://www.sensetime.com), China (*June 2023 - November 2023*)
 
+
 # 🧑‍🔬 Services
 **Reviewer:** &nbsp; 
-- ICASSP (25), ICME(25), EMNLP (24), ACL ARR (24)
+- ICASSP (25), ICME(25), EMNLP (24), ACL ARR (24-25)
 
 **Organizer**:  
 - [SLT 2024 Mandarin Stuttering Event Detection
