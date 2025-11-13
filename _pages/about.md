@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a 1<sup>st</sup>-year Ph.D. student at the College of Computer Science, Nankai University, working under the supervision of Professor Yong Qin. I transitioned directly from the master’s program in September 2024, after joining Nankai University in 2022. Before that, I earned my B.E. degree from Dalian University of Technology (DUT) in 2022. 
+I am currently a 2<sup>nd</sup>-year Ph.D. student at the College of Computer Science, Nankai University, working under the supervision of Professor Yong Qin. I transitioned directly from the master’s program in September 2024, after joining Nankai University in 2022. Before that, I earned my B.E. degree from Dalian University of Technology (DUT) in 2022. 
 My research interests include:
 - Large Audio Language Models
 - Audio Understanding
